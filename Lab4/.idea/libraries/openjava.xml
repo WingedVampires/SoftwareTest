@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openjava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/openjava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
